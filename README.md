@@ -1,2 +1,1 @@
-# August
- Models for game
+### Abandoned
